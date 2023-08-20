@@ -1,2 +1,5 @@
-# goit-markup-hw-02
-Second homework in HTML / CSS
+# goit-markup-hw-01
+
+Welcome to my project repository!
+
+[Live Demo](https://nicsbalanay19.github.io/goit-markup-hw-02/)
